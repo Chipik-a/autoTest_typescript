@@ -1,0 +1,1 @@
+{"root":["../tests/example.spec.ts","../tests/e2e/login.spec.ts","../tests/e2e/cart/add_to_cart.spec.ts","../tests/e2e/login/test_neg_login_locked.spec.ts","../tests/e2e/login/test_login_standard.spec.ts","../tests/fixtures/auth.fixtures.ts"],"version":"5.7.3"}
